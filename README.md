@@ -7,6 +7,6 @@ This project is created for **Assignment 1**, where I used **Cypress** to test t
 -  Custom Command: A function called `cy.login()` is used to avoid repeating login steps.
 -  
 Install Dependencies:
-          npm install
+          (npm install)
 Open Cypress Test Runner:
-         npx cypress open
+         (npx cypress open)
